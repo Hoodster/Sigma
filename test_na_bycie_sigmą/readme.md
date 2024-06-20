@@ -332,7 +332,3 @@ Syndrom myślenia grupowego to tendencja do podejmowania decyzji grupowych, któ
 
 - **Start-upy:** Demokratyczny styl kierowania sprzyja innowacjom i zaangażowaniu.
 - **Duże korporacje:** Autokratyczny styl może być skuteczny w sytuacjach kryzysowych, gdzie szybkie decyzje są kluczowe.
-
-## Zakończenie
-
-Efektywne zarządzanie zespołem projektowym wymaga zrozumienia dynamiki grupowej, umiejętności komunikacyjnych oraz stosowania odpowiednich technik wpływu i perswazji. Ważne jest również monitorowanie i adresowanie problemów efektywności zespołu oraz dostosowywanie stylu kierowania do specyficznych potrzeb i celów zespołu. Dzięki temu można zbudować silny, zintegrowany i skuteczny zespół, który jest w stanie realizować nawet najtrudniejsze projekty.
