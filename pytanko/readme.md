@@ -77,6 +77,52 @@
 
 ## 4. Techniki wpływu i perswazji na członków zespołu
 
+### Po co i jak chcemy wpływać?
+Prawidłowo stosowana perswazja pozwala na osiągnięcie obecnie wymaganych celów projektu przy zachowaniu prawidłowych relacji i morale zespołu
+
+### Perswazja
+Oznacza zechęcenie lub nakłanianie.
+
+Jest sztuką przekonywania kogoś do własnych racji jednocześnie nie działając na szkodę przekonywanej osoby
+
+### Rodzaje i typy perswazji
+- Przekonująca
+- Nakłaniająca
+- Pobudzająca
+
+### Wpływ
+Zdolność oddziaływania w sposób bezpośredni lub pośredni.
+
+### Wpływ a perswazja
+Wpływ w porównaniu do perswazji potrafi być również bierny lub pasywny.
+
+### Wpływ normatywny a informacyjny
+- Normatywny - presja grupy, chęć przynależności
+- Informacyjny - poznawczy, uzyskanie informacji od innych
+
+### Przejawy wpływu społecznego
+1. Komformizm
+2. Naśladownictwo
+3. Posłuszeństwo
+
+### Reakcje na wpływ
+- Uleganie - osoby poddające  się uleganiu zmieniają opinie w celu uzyskania korzyści
+- Identyfikacja - jednostka identyfikuje się z grupą
+- Internalizacja - jednostka naprawdę jest przekonana
+
+### Mechanizmy odporności
+- Samodzielności
+- Krytyczne myślenie
+- Wsparcie społeczne
+
+### 6 reguł wpływów
+1. Reguła wzajemności
+2. Reguła konsekwencji
+3. Reguła społecznego dowodu słuszności
+4. Reguła lubienia
+5. Reguła autorytetu
+6. Reguła niedostępności
+
 ### Techniki wpływu i perswazji:
 
 - **Argumentacja logiczna:** Prezentowanie logicznych i dobrze uzasadnionych argumentów.
