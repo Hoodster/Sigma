@@ -166,6 +166,23 @@ Wpływ w porównaniu do perswazji potrafi być również bierny lub pasywny.
 
 **Syndrom myślenia grupowego** to zjawisko, w którym dążenie do konsensusu w grupie prowadzi do podejmowania decyzji bez krytycznej analizy alternatyw.
 
+LUB
+
+Sposób myślenia, w który jednostki wpadają gdy są członkami wysoce spójnej grupy, gdzie wysiłki zmierzające do jednomyślności zagłuszają np. krytyczny obraz sytuacji.
+
+### Przyczyny
+- wysoka spójność grupy
+- kontekst sytuacyjny
+- odizolowanie od świata
+
+### Objawy
+- iluzja nieomylności
+- samocenzura
+- iluzja jednomyślności
+- filtrowanie informacji
+- lekceważące traktowanie wyników i osób spoza zespołu
+- wywieraniu nacisku dla wymuszenia komformizmu
+
 ### Pozytywne konsekwencje:
 
 - **Szybkie podejmowanie decyzji:** Grupowy konsensus może przyspieszyć proces podejmowania decyzji.
@@ -175,6 +192,13 @@ Wpływ w porównaniu do perswazji potrafi być również bierny lub pasywny.
 
 - **Brak krytycznego myślenia:** Skupienie na konsensusie może prowadzić do ignorowania krytycznych opinii i alternatywnych rozwiązań.
 - **Ryzyko błędnych decyzji:** Decyzje podejmowane bez pełnej analizy mogą prowadzić do poważnych błędów.
+
+### Zapobieganie
+- wyznaczenie roli wymagającej krytycznej oceny rozwiązań w zespole
+- przywódcy w hierarchii powinni być bezstronni
+- grupa powinna wysłuchiwać opinii jednego lub więcej ekspertów
+- na każdym spotkaniu przynajmniej jeden człowiek powinien przybrać rolę przeciwstawną
+- opracowywanie planów alternatywnych
 
 ### Przykłady:
 
@@ -207,7 +231,9 @@ Wpływ w porównaniu do perswazji potrafi być również bierny lub pasywny.
 - **Konflikty o zasoby:** Powstają, gdy zasoby (czas, pieniądze, narzędzia) są ograniczone, a członkowie zespołu konkurują o ich dostęp.
 
 **Sposoby rozwiązywania konfliktów:**
-
+- **Odwrót:** Strony mogą się wycofać z konfliktu, stosowany kiedy źródłem konfliktu są głównie emocje.
+- **Harmonizowanie:** Ukazanie celów nadrzędnych jako motywacja do porozumienia.
+- **Przeforsowanie:** Wykorzystanie autorytetu do arbitralnego rozwiązania konfliktu
 - **Mediacja:** Włączenie neutralnej strony trzeciej, która pomaga w negocjacjach i poszukiwaniu kompromisu.
 - **Komunikacja otwarta:** Zachęcanie do otwartej i szczerej komunikacji między stronami konfliktu, aby zrozumieć ich punkty widzenia i znaleźć wspólne rozwiązanie.
 - **Negocjacje i kompromis:** Dążenie do osiągnięcia porozumienia, które jest akceptowalne dla wszystkich stron konfliktu.
